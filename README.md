@@ -76,20 +76,22 @@ Java-Inheritance-Assignment/<br>
 2. Download or clone the project
 3. Open the project in any Java IDE
 4. Compile and run any `.java` file:
+   
    ```bash
    javac FileName.java
    java FileName
-📊 Expected Outcome
-Clear understanding of inheritance concepts
+   
+📊 Expected Outcome<br>
+Clear understanding of inheritance concepts<br>
 
-Ability to implement various inheritance types
+Ability to implement various inheritance types<br>
 
-Improved Object-Oriented Programming skills in Java
+Improved Object-Oriented Programming skills in Java<br>
 
 ✅ Conclusion
 This assignment provides a structured and practical understanding of inheritance in Java. It covers both basic and advanced concepts, helping learners build a strong foundation in object-oriented programming.
-
+<br><br>
 👤 Author
-Name: Jeet Saha
-Subject: Java Programming
-Topic: Inheritance (Basic to Advanced)
+Name: Jeet Saha<br>
+Subject: Java Programming<br>
+Topic: Inheritance (Basic to Advanced)<br>
