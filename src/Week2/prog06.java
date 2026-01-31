@@ -2,7 +2,7 @@ package Week2;
 //Write a Java program to find all roots of a quadratic equation.
 import java.util.Scanner;
 
-public class prog6 {
+public class prog06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

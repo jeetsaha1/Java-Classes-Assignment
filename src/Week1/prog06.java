@@ -3,7 +3,7 @@ package Week1;
 import java.util.Scanner;
 
 //Write a Java program to find area and perimeter of a circle.
-public class prog6 {
+public class prog06 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the values of radius : ");

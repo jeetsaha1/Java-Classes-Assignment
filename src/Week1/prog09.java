@@ -3,7 +3,7 @@ package Week1;
 import java.util.Scanner;
 
 //Write a Java program to find maximum of three numbers.
-public class prog9 {
+public class prog09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number 1: ");

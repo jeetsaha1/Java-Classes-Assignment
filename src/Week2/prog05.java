@@ -11,7 +11,7 @@ package Week2;
 
 import java.util.Scanner;
 
-public class prog5 {
+public class prog05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of physics: ");

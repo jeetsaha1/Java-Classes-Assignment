@@ -1,7 +1,7 @@
 package Week1;
 import java.util.Scanner;
 //Write a Java program to add two numbers.
-public class prog2 {
+public class prog02 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first number: ");

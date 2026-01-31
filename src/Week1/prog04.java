@@ -3,7 +3,7 @@ package Week1;
 import java.util.Scanner;
 
 //Write a Java program to change temperature from Fahrenheit to Celsius.
-public class prog4 {
+public class prog04 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the temperature (In Fahrenheit):");

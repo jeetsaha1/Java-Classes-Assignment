@@ -1,6 +1,6 @@
 package Week2;
 //Write a Java program to calculate factorial of 12.
-public class prog2 {
+public class prog02 {
     static int factorial(int num){
         if (num == 0 || num == 1){
             return 1;

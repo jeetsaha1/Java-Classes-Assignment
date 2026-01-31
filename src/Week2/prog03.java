@@ -3,7 +3,7 @@ package Week2;
 import java.util.Scanner;
 
 //Write a Java program for Fibonacci series.
-public class prog3 {
+public class prog03 {
     static int fibbonaaci(int num){
         if (num == 0){
             return 0;

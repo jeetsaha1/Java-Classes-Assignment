@@ -3,7 +3,7 @@ package Week2;
 import java.util.Scanner;
 
 //Write a Java program to generate multiplication table.
-public class prog9 {
+public class prog09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number : ");

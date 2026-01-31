@@ -3,7 +3,7 @@ package Week2;
 import java.util.Scanner;
 
 //Write a Java program to print all multiples of 10 between a given interval.
-public class prog8 {
+public class prog08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the range : ");
