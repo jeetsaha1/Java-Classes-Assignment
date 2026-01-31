@@ -28,15 +28,15 @@ Inheritance is a fundamental concept of Object-Oriented Programming (OOP) in Jav
 
 ## 📂 Project Structure
 Java-Inheritance-Assignment/
-│
-├── BasicInheritance.java
-├── SingleInheritance.java
-├── MultilevelInheritance.java
-├── HierarchicalInheritance.java
-├── MethodOverriding.java
-├── SuperKeywordDemo.java
-├── RuntimePolymorphism.java
-└── README.md
+│<br>
+├── BasicInheritance.java<br>
+├── SingleInheritance.java<br>
+├── MultilevelInheritance.java<br>
+├── HierarchicalInheritance.java<br>
+├── MethodOverriding.java<br>
+├── SuperKeywordDemo.java<br>
+├── RuntimePolymorphism.java<br>
+└── README.md<br>
 
 
 ---
