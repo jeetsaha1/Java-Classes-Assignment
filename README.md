@@ -27,7 +27,7 @@ Inheritance is a fundamental concept of Object-Oriented Programming (OOP) in Jav
 ---
 
 ## 📂 Project Structure
-Java-Inheritance-Assignment/
+Java-Inheritance-Assignment/<br>
 │<br>
 ├── BasicInheritance.java<br>
 ├── SingleInheritance.java<br>
